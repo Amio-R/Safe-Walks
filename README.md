@@ -1,6 +1,6 @@
 # Cloud Doorbell
 
-The Android Things Doorbell sample demonstrates how to create a “smart” doorbell.
+The Android Things Doorbell sample demonstrates how to create a smart doorbell.
 The sample captures a button press from a user, obtains an image via a camera peripheral,
 processes the image data using Google’s Cloud Vision API, and uploads the image, Cloud Vision
 annotations and metadata to a Firebase database where it can be viewed by a companion app.
